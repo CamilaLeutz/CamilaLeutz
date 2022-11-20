@@ -14,5 +14,5 @@ Entrei em uma formação pra conseguir aprender com propriedades e me transforma
 Entre em contato:
 
 <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" width="30" height="30">
-<a src"https://www.instagram.com/agarotadocodigo/">
+<a rhef"https://www.instagram.com/agarotadocodigo/">
 
